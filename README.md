@@ -1,2 +1,2 @@
 # Academic-Projects
-Projects I've worked on in an academic setting
+All of these projects are ones I have submitted for a class during university, with the exception of the project I submitted for my IBDP CS HL IA.
